@@ -33,7 +33,6 @@
 #include <czmq.h>
 #include <malamute.h>
 #include <cxxtools/allocator.h>
-#include <fty_log.h>
 #include <fty_common.h>
 #include <openssl/sha.h>
 
